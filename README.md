@@ -1,6 +1,6 @@
 
 
-# Hello World!, I'm Bhanuteja, a CS Engineer from India 👋🏼:
+# Hello!, I'm Bhanuteja, a CS Engineer from India 👋🏼:
 👨🏼‍💻 Passionate about coding and problem-solving <br>
 🎓 Specializing in Java, Python, and Web Technologies <br>
 📊 Enthusiastic about open-source contributions and learning new tech
